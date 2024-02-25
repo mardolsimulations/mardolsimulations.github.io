@@ -3,8 +3,6 @@
 ## About 
 Official website of the MARDOL Simulations. Here you can find our add-ons and download them. Also there is information about us
 
-This is not the release version of the website. Work in progress.
-
 ## Contributing
 This is another open-source project of MARDOL Simulations. All the files are under MIT License. 
 
